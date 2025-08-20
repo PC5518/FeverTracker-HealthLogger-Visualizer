@@ -51,7 +51,7 @@ I made this by realising If someone is suffering health issues and having fever,
 
 1. Run the script and enter your temperature, feelings, medicines, and notes.
 2. The date and time are automatically recorded.
-3. The script appends the new entry to the Excel file.
+3. The script appends the new entry to the Excel file(WHICH IS MANDATORY).
 4. A temperature trend plot is generated, with shaded fever zones and the latest temperature highlighted.
 5. The Excel file can be customized to suit your preferences or personal template.
 
