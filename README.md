@@ -8,6 +8,10 @@ I built this tracker to log my temperature, symptoms, medicines, and additional 
 
 This project was written with a sense of personal necessity, born from experiencing a long, unrelenting fever, and the need for a simple, user-friendly way to track health at home without requiring advanced devices.
 
+It was very painful experience I had .
+
+I made this by realising If someone is suffering health issues and having fever, he does and he doesn't have realtime fever tracking Advanced machine which is normally not available at everyone's home He can just do data entry at home by measuring it with the thermometer and it will just take the Input. 
+
 ## Features
 
 ### Automatic Timestamping
