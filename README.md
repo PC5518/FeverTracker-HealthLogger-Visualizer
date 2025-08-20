@@ -67,6 +67,10 @@ It also serves as a personal productivity tool, letting me track my health witho
 - pandas
 - openpyxl
 - matplotlib
+##Final output:
+<img width="1919" height="947" alt="Screenshot 2025-07-31 221911" src="https://github.com/user-attachments/assets/4f82ad03-79cb-4cc4-ada1-3e8c5344cb8f" />
+
+
 
 ## Usage
 
@@ -89,5 +93,5 @@ A plot of your fever trend will be displayed automatically.
 
 
 FINAL OUTPUT
-<img width="1919" height="947" alt="Screenshot 2025-07-31 221911" src="https://github.com/user-attachments/assets/fea407f4-b24e-4812-a5a8-a1f462cbb4df" />
+
 
