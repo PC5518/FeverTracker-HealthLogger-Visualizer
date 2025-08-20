@@ -6,7 +6,7 @@ from datetime import datetime
 import os
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-
+# i used Google AI studio in order to define Comments and take some integrating pandas module logic that i wasn't getting . it helped me a lot
 # --- Configuration ---
 FILENAME = "fever_tracker.xlsx"
 COLUMNS = ["Date & Time", "Temperature (°F)", "Feeling", "Medicine", "Additional Notes"]
@@ -160,4 +160,5 @@ def plot_fever_chart():
 
 if __name__ == "__main__":
     run_data_entry()
+
     plot_fever_chart()
