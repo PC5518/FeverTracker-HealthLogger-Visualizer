@@ -11,9 +11,10 @@ This project was written with a sense of personal necessity, born from experienc
 It was very painful experience I had .
 
 I made this by realising If someone is suffering health issues and having fever, he does and he doesn't have realtime fever tracking Advanced machine which is normally not available at everyone's home He can just do data entry at home by measuring it with the thermometer and it will just take the Input. 
-## Arrange the files as follow :
--final_code_visualizer_executer2.py (main file that will be running the program by extracting data )
--create a excel file to store date(you may download from my own fever_tracker.xlsx) . Note: you can also generate it by using openpyxl library . but for such an easy project i don't think it's require. so it's totally upto you.
+### Arrange the files as follow :
+- final_code_visualizer_executer2.py (main file that will be running the program by extracting data )
+
+- create a excel file to store date(you may download from my own fever_tracker.xlsx) . Note: you can also generate it by using openpyxl library . but for such an easy project i don't think it's require. so it's totally upto you.
 
 ## Features
 
