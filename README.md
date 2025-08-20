@@ -86,3 +86,8 @@ python fever_tracker.py
 Enter your temperature and notes when prompted.
 
 A plot of your fever trend will be displayed automatically.
+
+
+FINAL OUTPUT
+<img width="1919" height="947" alt="Screenshot 2025-07-31 221911" src="https://github.com/user-attachments/assets/fea407f4-b24e-4812-a5a8-a1f462cbb4df" />
+
